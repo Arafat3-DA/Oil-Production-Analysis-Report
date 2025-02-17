@@ -35,15 +35,8 @@ This Oil Production Analysis Dashboard provides insights into total production, 
 3. Terms & Conditions: Informational use only; data stays original.
 4. Purpose: Supports strategic decision-making through production analytics
 
-## 🚀 Technology Stack
-
-Power BI Desktop for data modeling and visualization
-DAX (Data Analysis Expressions) for advanced calculations and metrics
-
-## 🎨 Design and User Experience
-
-Dark-themed UI for enhanced readability and user engagement
-Responsive design with intuitive navigation and filter options
+## Dataset Used
+- <a href="https://github.com/Arafat3-DA/Oil-Production-Analysis-Report/blob/main/Dataset.csv">Dataset<a/>
 
 ## 📈 Impact and Value
 
@@ -58,6 +51,3 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ## 📧 Contact
 For any queries or collaboration opportunities, reach out to me at arafatsiddiqui3@gmail.com or connect with me on LinkedIn.
-
-## ⭐ Acknowledgments
-Special thanks to the open data sources and the Power BI community for their support and resources.
