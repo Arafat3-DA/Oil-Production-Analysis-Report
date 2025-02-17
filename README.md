@@ -28,7 +28,7 @@ This project consists of four main report pages:
 
 ## 🔒 Data Source and Privacy Policy
 
-This Oil Production Analysis Dashboard provides insights into total production, trends, peak performance, anomaly detection, and future forecasts, helping stakeholders make data-driven decisions. The dataset is sourced from official Saudi government portals, including Saudi Open Data and the Ministry of Energy, ensuring accuracy and transparency. Data privacy and compliance are maintained by excluding personally identifiable information (PII) and following Saudi Data & AI Authority (SDAIA) guidelines.
+This Oil Production Analysis Dashboard provides insights into total production, trends, peak performance, anomaly detection, and future forecasts, helping stakeholders make data-driven decisions. The dataset is sourced from official Saudi government portals, including <a href="https://open.data.gov.sa/en/home">Saudi Open Data<a/> and the <a href="https://www.moenergy.gov.sa/en/Pages/default.aspx">Ministry of Energy<a/>, ensuring accuracy and transparency. Data privacy and compliance are maintained by excluding personally identifiable information (PII) and following Saudi Data & AI Authority (SDAIA) guidelines.
 
 1. Data Source: Saudi Open Data & Ministry of Energy
 2. Privacy & Compliance: No PII; follows ethical data usage policies
